@@ -19,7 +19,7 @@ it returns an element. The way to decide the results is simple, and it's totally
 by the selectors you write. If your selectors are not for a unique element, the
 function will return an array, such as "#id .cls", cause ".cls" means a group of
 elements. However, if you write it like this, "#id.cls", the value returned will
-be an element or sometimes undefined;
+be an element or sometimes undefined.
 
 */
 
